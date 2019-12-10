@@ -1,0 +1,2 @@
+include ':app', ':bussinessapp'
+rootProject.name='MyShadow'
